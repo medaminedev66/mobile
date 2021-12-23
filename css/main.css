@@ -44,12 +44,26 @@ header p {
   color: white;
 }
 
+li {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 43px;
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+}
+
 .mobile-menu {
   height: 100vh;
   position: fixed;
   top: 0;
   z-index: 2;
+
   /* display: flex; */
+
   /* flex-flow: column; */
   font-size: 1.4rem;
   font-weight: bold;
@@ -299,18 +313,6 @@ main {
   right: 0;
 }
 
-li {
-  list-style: none;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 22px;
-  line-height: 43px;
-  text-align: center;
-  color: #fff;
-  padding: 5px;
-}
-
 .card-stacks li {
   background: rgba(255, 255, 255, 0.24) !important;
   backdrop-filter: blur(2px);
@@ -483,8 +485,8 @@ textarea {
   align-items: center;
   justify-content: space-around;
   padding: 5vh;
-  filter: invert(67%) sepia(46%) saturate(986%) hue-rotate(179deg)
-    brightness(92%) contrast(82%);
+  filter:
+    invert(67%) sepia(46%) saturate(986%) hue-rotate(179deg) brightness(92%) contrast(82%);
 }
 
 @media all and (min-width: 720px) {
