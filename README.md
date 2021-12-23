@@ -1,6 +1,37 @@
-# curriculum-cr-training-mobile-menu
+# My Portfolio
+
+This is a practice project about building a mobile and website version of my portfolio.
 
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+## Built With
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+- Major languages : Html, Css, JavaScript
+- No Frameworks
+
+## Authors
+
+👤 **Amine**
+
+- GitHub: [@githubhandle](https://github.com/medaminedev66)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-amine-smahi-1b8615187)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is MIT licensed.
