@@ -18,15 +18,6 @@ hr {
   width: 80vw;
 }
 
-/* header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px;
-  background-color: #3c3a39;
-  color: white;
-} */
-
 header {
   background-color: #3c3a39;
   min-height: 60px;
@@ -60,11 +51,9 @@ li {
   height: 100vh;
   position: fixed;
   top: 0;
+  right: 0;
+  left: 0;
   z-index: 2;
-
-  /* display: flex; */
-
-  /* flex-flow: column; */
   font-size: 1.4rem;
   font-weight: bold;
   background-color: #3c3a39;
